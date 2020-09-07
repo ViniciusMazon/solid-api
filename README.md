@@ -59,7 +59,7 @@ yarn dev
 
 - ``PORT``: Porta em que a aplicação rodará
 
-- ```MAILTRAP_USER``: Usuário do Mailtrap
+- ``MAILTRAP_USER``: Usuário do Mailtrap
 
 - ``MAILTRAP_PASS``: Senha do Mailtrap
 
